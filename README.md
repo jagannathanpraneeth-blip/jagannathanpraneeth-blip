@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Praneeth Jagannathan
 
-A **17-year-old AI engineer & full-stack builder** from India, currently in my **1st year of BTech ECE** at JNTUH.
+A **17-year-old AI engineer & full-stack builder** from Hyderabad, currently in my **1st year of BTech ECE** at SNIST.
 
 I'm passionate about building intelligent systems that automate tasks, explore multi-agent AI architectures, and create full-stack applications that solve real problems. When I'm not coding, I'm playing music or practicing martial arts.
 
