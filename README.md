@@ -18,10 +18,10 @@ I'm passionate about building intelligent systems that automate tasks, explore m
 ## 🛠️ Tech Stack
 
 **Languages:**
-- Python (Strong) - AI, backend, automation, scripting
-- JavaScript (Comfortable) - Frontend, web logic, React
+- 100% self-taPython (Strong, Self-taught)ught** - Mastered Python, JavaScript, React, Flask, MongoDB, and full-stack development through YouTube, official docs, and self-driven learning (C is from BTech curriculum) - AI, backend, automation, scripting
+- JavaScript (Comfortable, Self-taught) - Frontend, web logic, React
 - C (Intermediate) - Data structures, problem-solving
-- HTML & CSS (Strong) - Web fundamentals
+- HTML & CSS (Strong, Self-taught) - Web fundamentals
 
 **Frameworks & Libraries:**
 - Flask (Backend APIs & full-stack apps)
@@ -144,7 +144,7 @@ A conversational "bro-style" AI desktop assistant that listens, speaks, and auto
 
 - **Active builder with 7 repositories** in featuring 7 projects across AI, full-stack, and automation domains
 
-- **Self-taught in cutting-edge tech** - Mastering AI, full-stack development beyond standard curriculum
+- **100% self-taught** - Mastered Python, JavaScript, React, Flask, MongoDB, and full-stack development through YouTube, official docs, and self-driven learning (C is from BTech curriculum) tech** - Mastering AI, full-stack development beyond standard curriculum
 
 ---
 
