@@ -142,9 +142,9 @@ A conversational "bro-style" AI desktop assistant that listens, speaks, and auto
 
 ## 📊 GitHub Stats
 
-- **60+ contributions** in the last year
-- **6 repositories** showcasing full-stack & AI projects
-- **100% self-taught** in most cutting-edge tech
+- **Active builder with 7 repositories** in featuring 7 projects across AI, full-stack, and automation domains
+
+- **Self-taught in cutting-edge tech** - Mastering AI, full-stack development beyond standard curriculum
 
 ---
 
